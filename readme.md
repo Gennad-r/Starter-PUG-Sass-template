@@ -1,1 +1,2 @@
-# Start template with PUG and Sass
+# Starter template with PUG and Sass
+
